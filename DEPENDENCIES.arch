@@ -1,0 +1,6 @@
+glut
+glu
+avr-libc
+avr-gcc
+pkg-config
+
